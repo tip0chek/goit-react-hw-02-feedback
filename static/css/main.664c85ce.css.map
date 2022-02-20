@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.664c85ce.css","mappings":"AAAA,2CACI,wBACJ","sources":["components/FeedbackOptions/FeedbackOptions.module.css"],"sourcesContent":[".label::first-letter {\r\n    text-transform: uppercase;\r\n}\r\n"],"names":[],"sourceRoot":""}
